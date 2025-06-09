@@ -1,1 +1,2 @@
 # VariousCodes
+1. The pdfsolver package includes all the necessary files to perform OCR on image-based PDF files. Additionally, it allows you to modify the content and regenerate the corresponding PDF file..
